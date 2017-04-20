@@ -1,7 +1,6 @@
 +++
 name = "Shout CMS"
-keyword = "shout cms"
+keyword = "shoutcms"
 alternative = ""
 logo = ""
 +++
-cms.md

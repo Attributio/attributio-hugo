@@ -1,7 +1,6 @@
 +++
 name = "Ixxo cart"
-keyword = "ixxo cart"
+keyword = "ixxo"
 alternative = ""
 logo = ""
 +++
-cart.md

@@ -1,7 +1,6 @@
 +++
 name = "Flying Cart"
-keyword = "flying cart"
+keyword = "flyingcart"
 alternative = ""
 logo = ""
 +++
-cart.md

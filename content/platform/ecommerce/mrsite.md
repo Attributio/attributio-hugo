@@ -1,7 +1,6 @@
 +++
 name = "Mr Site"
-keyword = "mr site"
+keyword = "mrsite"
 alternative = ""
 logo = ""
 +++
-site.md

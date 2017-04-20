@@ -1,7 +1,6 @@
 +++
 name = "OS Commerce"
-keyword = "os commerce"
+keyword = "oscommerce"
 alternative = ""
 logo = ""
 +++
-commerce.md
