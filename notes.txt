@@ -1,0 +1,2 @@
+// resize images in foler to specified width
+convert *.png[500x] -set filename:f '%t' '%[filename:f].png'

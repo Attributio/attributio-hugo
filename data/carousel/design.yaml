@@ -1,0 +1,11 @@
+weight: 3
+title: "Conversion Attribution"
+description: >
+  <p>Simple attribution modeling at your fingertips</p>
+  <p>Measure campaign ROI to discover the most profitable channels</p>
+  <a href="/join/" class="btn btn-xl btn-danger track" 
+    data-event-category="Homepage"
+    data-event-action="Top Click"
+    data-event-label="Red Button"
+    >Meet your expert - Get started free</a>
+image: "/img/carousel/laptop-analytics-2.png"
