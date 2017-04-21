@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For LightCMS - Attributio"
 name = "LightCMS"
-keyword = "lightcms"
-alternative = "light cms"
+keywords = "lightcms, light cms, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with LightCMS to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

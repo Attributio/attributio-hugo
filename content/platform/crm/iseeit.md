@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For iSEEit - Attributio"
 name = "iSEEit"
-keyword = "iseeit"
-alternative = ""
+keywords = "iseeit, , google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with iSEEit to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

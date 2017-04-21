@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Ghost - Attributio"
 name = "Ghost"
-keyword = "ghost"
-alternative = ""
+keywords = "ghost, , google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Ghost to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

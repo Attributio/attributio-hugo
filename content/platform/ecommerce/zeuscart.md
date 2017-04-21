@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For ZeusCArt - Attributio"
 name = "ZeusCArt"
-keyword = "zeuscart"
-alternative = "zeus cart"
+keywords = "zeuscart, zeus cart, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with ZeusCArt to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

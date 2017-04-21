@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Percussion CMS - Attributio"
 name = "Percussion CMS"
-keyword = "percussion"
-alternative = ""
+keywords = "percussion, , google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Percussion CMS to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

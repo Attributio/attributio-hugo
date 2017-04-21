@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For LeadMaster - Attributio"
 name = "LeadMaster"
-keyword = "leadmaster"
-alternative = "lead master"
+keywords = "leadmaster, lead master, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with LeadMaster to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

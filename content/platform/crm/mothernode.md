@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Mothernode - Attributio"
 name = "Mothernode"
-keyword = "mothernode"
-alternative = "mother node"
+keywords = "mothernode, mother node, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Mothernode to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

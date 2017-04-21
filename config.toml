@@ -1,5 +1,5 @@
 baseurl = "https://attribut.io/"
-title = "Attributio"
+title = "Attributio - Attribution Markerting Experts"
 theme = "hugo-universal"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -22,7 +22,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Attributio"
-    defaultKeywords = ["attribution", "facebook google discrepency", "conversion tracking"]
+    defaultKeywords = ["attribution modelling", "google analytics", "conversion tracking", "crm tracking leads", "adwords ppc tracking"]
     defaultDescription = "Attributio provides tools to track all of the conversions for your business. We help you plug all the holes in your marketing strategy."
 
     # Google Maps API key (if not set will default to not passing a key.)

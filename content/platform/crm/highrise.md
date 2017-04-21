@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Highrise - Attributio"
 name = "Highrise"
-keyword = "highrise"
-alternative = "high rise"
+keywords = "highrise, high rise, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Highrise to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

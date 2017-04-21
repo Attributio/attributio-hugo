@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Accrisoft Freedom - Attributio"
 name = "Accrisoft Freedom"
-keyword = "accrisoft"
-alternative = "accrisoft freedom"
+keywords = "accrisoft, accrisoft freedom, google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Accrisoft Freedom to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

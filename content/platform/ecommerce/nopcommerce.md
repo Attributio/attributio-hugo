@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For nopCommerce - Attributio"
 name = "nopCommerce"
-keyword = "nopcommerce"
-alternative = "nop commerce"
+keywords = "nopcommerce, nop commerce, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with nopCommerce to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

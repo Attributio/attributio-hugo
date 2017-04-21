@@ -10,9 +10,9 @@
   <meta name="author" content="{{ .Site.Author.name }}" />
 
   {{ if .Keywords }}
-  <meta name="keywords" content="{{ delimit .Keywords ", " }}">
+  <meta name="keywords" content="{{ delimit .Keywords " " }}">
   {{ else if .Site.Params.DefaultKeywords }}
-  <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">  
+  <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords " " }}">  
   {{ end }}
 
   {{ if .Description }}

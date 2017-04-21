@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Tea Commerce - Attributio"
 name = "Tea Commerce"
-keyword = "teacommerce"
-alternative = "tea commerce"
+keywords = "teacommerce, tea commerce, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Tea Commerce to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

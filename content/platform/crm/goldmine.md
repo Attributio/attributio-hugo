@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For GoldMine - Attributio"
 name = "GoldMine"
-keyword = "goldmine"
-alternative = "gold mine"
+keywords = "goldmine, gold mine, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with GoldMine to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

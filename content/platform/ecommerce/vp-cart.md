@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For VP-Cart - Attributio"
 name = "VP-Cart"
-keyword = "vp-cart"
-alternative = "vp cart"
+keywords = "vp-cart, vp cart, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with VP-Cart to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

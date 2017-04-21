@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For SugarCRM - Attributio"
 name = "SugarCRM"
-keyword = "sugarcrm"
-alternative = "sugar crm"
-logo = "/img/platform/ecommerce/sugarcrm.png"
+keywords = "sugarcrm, sugar crm, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with SugarCRM to find our where your leads are coming from. Track leads from the source - from search to ppc."
+logo = "/img/platform/crm/sugarcrm.png"
 +++

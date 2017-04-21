@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For GoLiveCart - Attributio"
 name = "GoLiveCart"
-keyword = "golivecart"
-alternative = "go live cart"
+keywords = "golivecart, go live cart, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with GoLiveCart to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

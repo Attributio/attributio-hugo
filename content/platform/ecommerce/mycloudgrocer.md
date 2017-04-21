@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For My Cloud Grocer - Attributio"
 name = "My Cloud Grocer"
-keyword = "mycloudgrocer"
-alternative = "my cloud grocer"
+keywords = "mycloudgrocer, my cloud grocer, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with My Cloud Grocer to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Shopizer - Attributio"
 name = "Shopizer"
-keyword = "shopizer"
-alternative = ""
+keywords = "shopizer, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Shopizer to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

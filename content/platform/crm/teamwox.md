@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For TeamWox - Attributio"
 name = "TeamWox"
-keyword = "teamwox"
-alternative = "team wox"
+keywords = "teamwox, team wox, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with TeamWox to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Intershop - Attributio"
 name = "Intershop"
-keyword = "intershop"
-alternative = ""
+keywords = "intershop, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Intershop to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

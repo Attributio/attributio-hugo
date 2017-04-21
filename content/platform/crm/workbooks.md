@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Workbooks - Attributio"
 name = "Workbooks"
-keyword = "workbooks"
-alternative = "work books"
+keywords = "workbooks, work books, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Workbooks to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

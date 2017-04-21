@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For UberCart - Attributio"
 name = "UberCart"
-keyword = "ubercart"
-alternative = "uber cart"
+keywords = "ubercart, uber cart, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with UberCart to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

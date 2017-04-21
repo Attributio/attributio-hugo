@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For XOOPS - Attributio"
 name = "XOOPS"
-keyword = "xoops"
-alternative = ""
+keywords = "xoops, , google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with XOOPS to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

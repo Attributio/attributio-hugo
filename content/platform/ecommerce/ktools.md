@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Ktools - Attributio"
 name = "Ktools"
-keyword = "ktools"
-alternative = "k tools"
+keywords = "ktools, k tools, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Ktools to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

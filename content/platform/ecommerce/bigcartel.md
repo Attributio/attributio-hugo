@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Big Cartel - Attributio"
 name = "Big Cartel"
-keyword = "bigcartel"
-alternative = "big cartel"
+keywords = "bigcartel, big cartel, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Big Cartel to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

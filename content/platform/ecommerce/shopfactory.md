@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For ShopFactory - Attributio"
 name = "ShopFactory"
-keyword = "shopfactory"
-alternative = "shop factory"
+keywords = "shopfactory, shop factory, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with ShopFactory to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

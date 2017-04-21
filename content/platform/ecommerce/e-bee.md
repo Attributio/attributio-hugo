@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For E-bee - Attributio"
 name = "E-bee"
-keyword = "e-bee"
-alternative = ""
+keywords = "e-bee, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with E-bee to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

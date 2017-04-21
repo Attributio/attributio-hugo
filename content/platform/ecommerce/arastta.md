@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Arastta - Attributio"
 name = "Arastta"
-keyword = "arastta"
-alternative = ""
+keywords = "arastta, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Arastta to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

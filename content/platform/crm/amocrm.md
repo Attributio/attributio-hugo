@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For amoCRM - Attributio"
 name = "amoCRM"
-keyword = "amocrm"
-alternative = "amo crm"
+keywords = "amocrm, amo crm, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with amoCRM to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Elcom CMS - Attributio"
 name = "Elcom CMS"
-keyword = "elcom"
-alternative = "elcom cms"
+keywords = "elcom, elcom cms, google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Elcom CMS to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

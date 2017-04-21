@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For VirtoCommerce - Attributio"
 name = "VirtoCommerce"
-keyword = "virtocommerce"
-alternative = "virto commerce"
+keywords = "virtocommerce, virto commerce, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with VirtoCommerce to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

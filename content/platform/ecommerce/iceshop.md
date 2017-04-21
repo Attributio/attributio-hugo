@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For IceShop - Attributio"
 name = "IceShop"
-keyword = "iceshop"
-alternative = "ice shop"
+keywords = "iceshop, ice shop, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with IceShop to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

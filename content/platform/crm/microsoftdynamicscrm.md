@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For Microsoft Dynamics CRM - Attributio"
 name = "Microsoft Dynamics CRM"
-keyword = "microsoftdynamicscrm"
-alternative = "microsoft dynamics crm"
-logo = "/img/platform/ecommerce/microsoftdynamicscrm.png"
+keywords = "microsoftdynamicscrm, microsoft dynamics crm, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with Microsoft Dynamics CRM to find our where your leads are coming from. Track leads from the source - from search to ppc."
+logo = "/img/platform/crm/microsoftdynamicscrm.png"
 +++

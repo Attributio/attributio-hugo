@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For SPINE - Attributio"
 name = "SPINE"
-keyword = "spine"
-alternative = ""
+keywords = "spine, , google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with SPINE to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

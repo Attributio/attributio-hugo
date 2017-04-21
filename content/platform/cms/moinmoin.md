@@ -1,6 +1,7 @@
 +++
+title = "Google Analytics Ecommerce Tracking For MoinMoin - Attributio"
 name = "MoinMoin"
-keyword = "moinmoin"
-alternative = ""
+keywords = "moinmoin, , google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
+description = "Connect Google Analytics with MoinMoin to find our where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++
