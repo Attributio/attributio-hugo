@@ -1,5 +1,5 @@
 +++
-title = "Google Analytics Ecommerce Tracking For Mezzanine - Attributio"
+title = "Google Analytics CMS Tracking For Mezzanine - Attributio"
 name = "Mezzanine"
 keywords = "mezzanine, , google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
 description = "Connect Google Analytics with Mezzanine to find our where your leads are coming from. Track leads from the source - from search to ppc."

@@ -1,5 +1,5 @@
 +++
-title = "Google Analytics Ecommerce Tracking For Bluenose - Attributio"
+title = "Google Analytics CRM Tracking For Bluenose - Attributio"
 name = "Bluenose"
 keywords = "bluenose, blue nose, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
 description = "Connect Google Analytics with Bluenose to find our where your leads are coming from. Track leads from the source - from search to ppc."

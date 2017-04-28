@@ -1,5 +1,5 @@
 +++
-title = "Google Analytics Ecommerce Tracking For DocLogix - Attributio"
+title = "Google Analytics CMS Tracking For DocLogix - Attributio"
 name = "DocLogix"
 keywords = "doclogix, , google analytics, cms, adwords, facebook, ppc, attribution, track leads, conversion tracking"
 description = "Connect Google Analytics with DocLogix to find our where your leads are coming from. Track leads from the source - from search to ppc."
