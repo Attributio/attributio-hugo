@@ -3,9 +3,10 @@ title = "Track Conversions With Google Analytics' Client ID"
 date = "2017-04-27"
 tags = ["google analytics"]
 categories = ["tutorial"]
-banner = "/img/blog/session_based_client_id.png"
+banner = "/img/blog/201704/session_based_client_id.png"
+keywords = "google analytics conversion tracking, google analytics attribution, custom attribution model with google analytics"
+description = "Use avaialble cookies in Google Analytics to track your customer's behavior along with their conversions from the source."
 +++
-
 
 
 ## Introduction
@@ -26,7 +27,7 @@ You can add the client ID as a custom diemsion in google analytics by navigating
 
 <br>
 
-<img class="img-responsive img-thumbnail" src="/img/blog/property_custom_definitions.png" alt="add custom dimension to google analytics" />
+<img class="img-responsive img-thumbnail" src="/img/blog/201704/property_custom_definitions.png" alt="add custom dimension to google analytics" />
 
 <br>
 
@@ -34,7 +35,7 @@ Select Custom Definitions / Custom Dimensions and click on the "New Custom Dimen
 
 <br>
 
-<img class="img-responsive img-thumbnail" src="/img/blog/custom_dimensions_new.png" alt="add client id to google analytics" />
+<img class="img-responsive img-thumbnail" src="/img/blog/201704/custom_dimensions_new.png" alt="add client id to google analytics" />
 
 <br>
 
@@ -42,7 +43,7 @@ You want to add the name "Client ID" and set the scope to Session. You can add i
 
 <br>
 
-<img class="img-responsive img-thumbnail" src="/img/blog/session_based_client_id.png" alt="add session based client id to google analytics" />
+<img class="img-responsive img-thumbnail" src="/img/blog/201704/session_based_client_id.png" alt="add session based client id to google analytics" />
 
 <br>
 
@@ -50,7 +51,7 @@ Then you can set the custom dimesion value to your website according to the dime
 
 <br>
 
-<img class="img-responsive img-thumbnail" src="/img/blog/client_id_embed.png" alt="add custom dimension client id to website embed code" />
+<img class="img-responsive img-thumbnail" src="/img/blog/201704/client_id_embed.png" alt="add custom dimension client id to website embed code" />
 
 <br>
 

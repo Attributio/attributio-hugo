@@ -1,8 +1,8 @@
 weight: 3
 title: "Conversion Attribution"
 description: >
-  <p>Simple attribution modeling at your fingertips</p>
-  <p>Measure campaign ROI to discover the most profitable channels</p>
+  <p>Simple attribution modeling at your fingertips.</p>
+  <p>Get the full picture on all your marketing effots, measure campaign ROI, never miss a lead again.</p>
   <a href="/join/" class="btn btn-xl btn-danger track" 
     data-event-category="Homepage"
     data-event-action="Top Click"
