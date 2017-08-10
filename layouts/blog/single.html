@@ -5,6 +5,8 @@
 
   <body>
 
+    {{ partial "analytics_ns.html" . }}
+    
     <div id="all">
 
         <header>
@@ -50,6 +52,8 @@
                         {{ partial "sidebar.html" . }}
 
                         <!-- *** MENUS AND FILTERS END *** -->
+
+                        {{ partial "email-signup.html" . }}
 
                     </div>
                     <!-- /.col-md-3 -->

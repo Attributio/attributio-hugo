@@ -6,20 +6,22 @@ categories = ["tutorial"]
 banner = "/img/blog/201704/session_based_client_id.png"
 keywords = "google analytics conversion tracking, google analytics attribution, custom attribution model with google analytics"
 description = "Use avaialble cookies in Google Analytics to track your customer's behavior along with their conversions from the source."
+author = "David Chun"
 +++
 
 
 ## Introduction
 
-Google Analytics is an underutilized tool and there are a few basic things you can do to gain more insight into your conversions. Last year in March of 2016 Google made their new [User Explorer](https://support.google.com/analytics/answer/6339208?hl=en) available to the public. It's a great tool but unfortunately, you can't drill down into other dimensions with this tool yet. 
+Google Analytics is an underutilized tool and there are a few basic things you can do to gain more insight into your conversions. Last year in March of 2016 Google made their new [User Explorer](https://support.google.com/analytics/answer/6339208?hl=en) available to the public. It's a great tool but unfortunately, you can't drill down into other dimensions with this tool yet. Also, you can't combine this information with other dimensions or metrics like where the user came from.
 
-What the User Explorer essentially does is aggregate users based on the client id that google collects in the form of a cookie set in your visitor's browser. Also, you can't combine this information with other dimensions or metrics like where the user came from.
+
+What the User Explorer essentially does is aggregate users based on the client id that google collects in the form of a cookie set in your visitor's browser. Google uses this cookie internally but doesn't make it accessible to Google Analytic's users. The only way to access the client id is by exposing it and sending it to your Google Analytics property as a custom dimension.
 
 ## Why You Need to Add Client ID Now
 
 When you're ready to start looking at where your conversions are coming from, you'll want to connect the information related to where they came from and how they interacted with your site. Unfortunately, you wont have that data. And you'll have to wait until you've collected enough data to make any kind of assessment on conversions.
 
-For example, if you decide to run an ad campaign and spend $10k on cpc, if you want to see the results at the end of the month and you only have a basic analytics setup, you'll have a difficult time connecting your converted users to all the little interactions that visitor had with the various ads you ran along with their activity on your website. And if there's a big chunk of your conversions that isn't trackable, you'll have a harder time mazimizing every single dollar of your marketing budget.
+Assuming that you are collecting your visitor's client id when they convert, you can query as far back as you like on that user to visualize every step they took to convert. You can also view all of the channels that they navigated to before converting.
 
 ## How to Add Client ID as a Custom Dimension
 

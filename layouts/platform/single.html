@@ -5,6 +5,8 @@
 
   <body>
 
+    {{ partial "analytics_ns.html" . }}
+    
     <div id="all">
 
         <header>
@@ -128,6 +130,8 @@
     <!-- /#all -->
 
     {{ partial "scripts.html" . }}
+
+    <script src="/js/disable-home.js"></script>
 
   </body>
 </html>
