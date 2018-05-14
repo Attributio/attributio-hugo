@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }}</title>
+  <meta name="author" content="{{ .Site.Author.name }}" />
+
+  {{ if .Keywords }}
+  <meta name="keywords" content="{{ delimit .Keywords " " }}">
+  {{ else if .Site.Params.DefaultKeywords }}
+  <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords " " }}">  
+  {{ end }}
+
+  {{ if .Description }}
+  <meta name="description" content="{{ .Description }}">
+  {{ else if .Site.Params.DefaultDescription }}
+  <meta name="description" content="{{ .Site.Params.DefaultDescription }}"> 
+  {{ end }}
+
+  {{ .Hugo.Generator }}
+
+  {{ partial "analytics.html" . }}
+</head>
+
+<body id="" cz-shortcut-listen="true">
+
+  {{ partial "analytics_ns.html" . }}
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <META> element to your page <HEAD>.      -->
+<!--  If necessary, please modify the charset parameter to specify the        -->
+<!--  character set of your HTML page.                                        -->
+<!--  ----------------------------------------------------------------------  -->
+
+<META HTTP-EQUIV="Content-type" CONTENT="text/html; charset=UTF-8">
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: Please add the following <FORM> element to your page.             -->
+<!--  ----------------------------------------------------------------------  -->
+
+<form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+
+<input type=hidden name="oid" value="00Di0000000jHAS">
+<input type=hidden name="retURL" value="https://attribut.io">
+
+<!--  ----------------------------------------------------------------------  -->
+<!--  NOTE: These fields are optional debugging elements. Please uncomment    -->
+<!--  these lines if you wish to test in debug mode.                          -->
+<!--  <input type="hidden" name="debug" value=1>                              -->
+<!--  <input type="hidden" name="debugEmail" value="daveedchun@gmail.com">    -->
+<!--  ----------------------------------------------------------------------  -->
+
+<label for="first_name">Name</label><input  id="first_name" maxlength="40" name="first_name" size="20" type="text" /><br>
+
+<label for="email">Email</label><input  id="email" maxlength="80" name="email" size="20" type="text" /><br>
+
+<input  id="GACLIENTID" maxlength="255" name="GACLIENTID" size="20" type="hidden" />
+<input  id="GAUSERID" maxlength="255" name="GAUSERID" size="20" type="hidden" />
+<input  id="GATRACKID" maxlength="255" name="GATRACKID" size="20" type="hidden" value="UA-97173125-2" />
+
+<input type="submit" name="submit">
+
+</form>
+
+<script>
+  window.getCookie = function(name) {
+    match = document.cookie.match(new RegExp(name + '=([^;]+)'));
+    if (match) return match[1];
+  }
+	var clientId = window.getCookie("clientId");
+  document.getElementById('GACLIENTID').value = clientId;
+</script>
+
+</body>
+
+</html>
