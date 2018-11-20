@@ -6,7 +6,7 @@ categories = ["tutorial"]
 banner = "/img/blog/201704/session_based_client_id.png"
 keywords = "google analytics conversion tracking, google analytics attribution, custom attribution model with google analytics"
 description = "Use avaialble cookies in Google Analytics to track your customer's behavior along with their conversions from the source."
-author = "David Chun"
+author = "Attributio"
 +++
 
 

@@ -6,7 +6,7 @@ categories = ["tutorial"]
 banner = "/img/blog/201705/subdomain_page_filter.png"
 keywords = "google analytics, google analytics subdomain tracking, google analytics goals with subdomains"
 description = "Track goals for your subdomains with the same universal tracking code from Google Analytics."
-author = "David Chun"
+author = "Attributio"
 +++
 
 

@@ -6,7 +6,7 @@ categories = ["tutorial"]
 banner = "/img/blog/201708/"
 keywords = "google analytics conversion tracking, google analytics attribution, custom attribution model with google analytics, remove direct google analytics"
 description = "Solve the problem of having a large chunk of conversions being attributed as a Direct channel."
-author = "David Chun"
+author = "Attributio"
 draft = true
 +++
 
