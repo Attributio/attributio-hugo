@@ -18,7 +18,7 @@ pluralizeListTitles = false
 
 [[menu.main]]
     name = "Meet Your Expert"
-    url  = "/join/"
+    url  = "/support/"
     weight = 4
 
 [[menu.main]]
@@ -54,7 +54,7 @@ pluralizeListTitles = false
     # email = "attributio1@gmail.com"
 
     about_us = ""
-    copyright = "Copyright &copy; 2018 Attributio. All rights reserved."
+    copyright = "Copyright &copy; 2019 Attributio. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -106,7 +106,7 @@ pluralizeListTitles = false
     icon = "fa fa-file-code-o"
     title = "Do you want to find out more?"
     subtitle = "Schedule a consultation today."
-    link_url = "/join/"
+    link_url = "/support/"
     link_text = "Meet Your Expert"
 
 [params.clients]

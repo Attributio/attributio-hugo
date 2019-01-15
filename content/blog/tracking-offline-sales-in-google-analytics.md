@@ -28,10 +28,10 @@ In Google Analytics you will need to create a report that lists the custom metri
 
 <br>
 
-<img class="img-responsive img-thumbnail" src="/img/blog/201811/revenue.png" alt="gogole analytics track offline sales" />
+<img class="img-responsive img-thumbnail" src="/img/blog/201811/revenue.png" alt="google analytics track offline sales" />
 
 <br>
 
 And there you have it. Now you can track the ROI of all your advertising in Google Analytics along with all of your sales that happen offline.
 
-Next, we'll take a look at how to add cost data related to our advertising to Google Analytics.
+If you need help tracking your goals across multiple domains or subdomains, we have experts standing by to [configure your analytics for tracking offline sales. Meet Your Expert Today!](/support/)

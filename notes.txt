@@ -1,2 +1,8 @@
 // resize images in foler to specified width
 convert *.png[500x] -set filename:f '%t' '%[filename:f].png'
+
+Blog Post Ideas
+1. Why it's important to have separate properties for app/ecommerce and landing page
+	a. continued marketing should be reflected in sales in ecommerce
+	b. standard conversion value should exist for sign ups
+	c. you can distinguish between outside and inside sales

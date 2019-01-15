@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+
+  {{ partial "analytics_ns.html" . }}
+
+  <div id="all">
+
+    <header>
+
+      {{ partial "nav.html" . }}
+
+    </header>
+
+      <div class="home-carousel" style="padding: 30px 0;">
+        <div class="dark-mask"></div>
+        <div class="container">
+
+            <div class="row">
+              <div class="col-xs-12 col-sm-6">
+                <h1>Discover the true power of marketing attribution with an expert</h1>
+                <p>Schedule a free consultation and we will contact you shortly to book a convenient time</p>
+                <img class="img-responsive" src="/img/carousel/laptop-analytics-2.png" alt="">
+
+              </div>              
+              <div class="col-xs-12 col-sm-6">
+
+                <div class="signup-form" id="demo-form-container">
+                  <h3 style="color: black;text-transform: none; text-align:center">Get Help From An Expert</h3>
+
+                  <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
+
+                    <div class="form-group">
+                      <label for="first_name">First Name<strong style="color: red;">*</strong></label>
+                      <input class="form-control" id="first_name" maxlength="40" name="first_name" size="20" type="text" required>
+                    </div>
+
+                    <div class="form-group">
+                      <label for="last_name">Last Name<strong style="color: red;">*</strong></label>
+                      <input class="form-control" id="last_name" maxlength="80" name="last_name" size="20" type="text" required>
+                    </div>
+
+                    <div class="form-group">
+                      <label for="email">Email<strong style="color: red;">*</strong></label>
+                      <input class="form-control" id="email" maxlength="80" name="email" size="20" type="email" required>
+                    </div>
+
+                    <div class="form-group">
+                      <label for="company">Company<strong style="color: red;">*</strong></label>
+                      <input class="form-control" id="company" maxlength="40" name="company" size="20" type="text" required>
+                    </div>
+
+                    <div class="form-group">
+                      <label for="URL">Website<strong style="color: red;">*</strong></label>
+                      <input class="form-control" id="URL" maxlength="80" name="URL" size="20" type="URL" required>
+                    </div>
+
+                    <div class="form-group">
+                    <label for="phone">Phone<strong style="color: red;">*</strong></label>
+                    <input class="form-control" id="phone" maxlength="40" name="phone" size="20" type="tel" required>
+                    </div>
+
+                    <input type=hidden name="oid" value="00D5A0000016Nwg">
+                    <input type=hidden name="retURL" value="https://attribut.io/thanks">
+                    
+                    <!-- Client ID -->
+                    <input id="00N5A00000LsHEA" name="00N5A00000LsHEA" type="hidden" />
+                    <!-- Revenue ID -->
+                    <input id="00N5A00000LsHEB" name="00N5A00000LsHEB" type="hidden" value="cm1" />
+                    <!-- Tracking ID -->                    
+                    <input id="00N5A00000LsHEC" name="00N5A00000LsHEC" type="hidden" value="UA-97173125-1" />
+                    <!-- User ID -->                    
+                    <input id="00N5A00000LsHED" name="00N5A00000LsHED" type="hidden" />
+
+                    <div class="form-group">                    
+                      <input type="submit" class="btn btn-block btn-large btn-danger btn-lg" name="submit">
+                    </div>
+
+                  </form> 
+
+                </div>
+
+              </div>
+
+            </div>
+        </div>
+      </div>
+
+    {{ partial "footer.html" . }}
+
+  </div>
+  <!-- /#all -->
+
+  {{ partial "scripts.html" . }}
+
+  <script>
+    window.getCookie = function(name) {
+      match = document.cookie.match(new RegExp(name + '=([^;]+)'));
+      if (match) return match[1];
+    }
+    var clientId = window.getCookie("clientId");
+    document.getElementById('00N5A00000LsHEA').value = clientId;
+  </script>
+</body>
+</html>

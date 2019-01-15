@@ -63,4 +63,4 @@ Notice that they share the same path and Google Analytics would have counted the
 
 ## Conclusion
 
-There you have it. Now you're ready to start tracking across multiple subdomains. If you need help tracking your goals across multiple domains or subdomains, we have experts standing by to [configure your analytics for cross domain tracking. Meet Your Expert Today!](/join/)
+There you have it. Now you're ready to start tracking across multiple subdomains. If you need help tracking your goals across multiple domains or subdomains, we have experts standing by to [configure your analytics for cross domain tracking. Meet Your Expert Today!](/support/)

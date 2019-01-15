@@ -91,5 +91,5 @@ ga(function(tracker) {
 
 Sometimes it's not always so simple to configure custom dimensions. Your developer may have set up your analytics in a custom way ot you might be using Google Tag Manager to manage all of your js snippets.
 
-In that case, we have experts standing by to [install your custom dimesions. Meet Your Expert Today!](/join/)
+In that case, we have experts standing by to [install your custom dimesions. Meet Your Expert Today!](/support/)
 
