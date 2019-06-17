@@ -91,5 +91,7 @@ ga(function(tracker) {
 
 Sometimes it's not always so simple to configure custom dimensions. Your developer may have set up your analytics in a custom way ot you might be using Google Tag Manager to manage all of your js snippets.
 
-In that case, we have experts standing by to [install your custom dimesions. Meet Your Expert Today!](/support/)
+In that case, we have experts standing by to [install your custom dimesions. Meet Your Expert Today!](/join/)
+
+We also recommend our clients to utilize additional tools like <a href="https://shareasale.com/r.cfm?b=462846&u=1517931&m=46217&urllink=&afftrack=">Improvely</a>. They have a great feature that profiles your customers so you can have a granular look at how they arrived, how much they spent, and what their behavior was on your site.
 

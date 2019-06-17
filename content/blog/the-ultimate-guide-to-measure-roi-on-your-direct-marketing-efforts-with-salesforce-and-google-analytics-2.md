@@ -32,4 +32,6 @@ Now navigate to Setup > Platform Tools > Process Automation > Process Builder an
 
 And that's it. Now you can send revenue data to Google Analytics every time your sales agents close a deal and you can do a detailed cost analysis based on your advertising campaigns and even identify the most profitable keywords to really take your marketing efforts to the next level.
 
-If you would like to download a package for Salesforce, <a href="/support">reach out to us</a> and we will send you a link to install the package and that you can demo along with documentation to complete the configuration process.
+If you would like to download a package for Salesforce, <a href="/join">reach out to us</a> and we will send you a link to install the package and that you can demo along with documentation to complete the configuration process.
+
+We also recommend our clients to utilize additional tools like <a href="https://shareasale.com/r.cfm?b=462846&u=1517931&m=46217&urllink=&afftrack=">Improvely</a>. They have a great feature that profiles your customers so you can have a granular look at how they arrived, how much they spent, and what their behavior was on your site.

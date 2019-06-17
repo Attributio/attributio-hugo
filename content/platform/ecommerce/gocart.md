@@ -2,6 +2,6 @@
 title = "Google Analytics Ecommerce Tracking For GoCart - Attributio"
 name = "GoCart"
 keywords = "gocart, go cart, google analytics, commerce, ecommerce, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with GoCart to find our where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Connect Google Analytics with GoCart to find out where your leads are coming from. Track leads from the source - from search to ppc."
 logo = ""
 +++

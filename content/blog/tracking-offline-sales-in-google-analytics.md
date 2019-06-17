@@ -34,4 +34,6 @@ In Google Analytics you will need to create a report that lists the custom metri
 
 And there you have it. Now you can track the ROI of all your advertising in Google Analytics along with all of your sales that happen offline.
 
-If you need help tracking your goals across multiple domains or subdomains, we have experts standing by to [configure your analytics for tracking offline sales. Meet Your Expert Today!](/support/)
+If you need help tracking your goals across multiple domains or subdomains, we have experts standing by to [configure your analytics for tracking offline sales. Meet Your Expert Today!](/join/)
+
+We also recommend our clients to utilize additional tools like <a href="https://shareasale.com/r.cfm?b=462846&u=1517931&m=46217&urllink=&afftrack=">Improvely</a>. They have a great feature that profiles your customers so you can have a granular look at how they arrived, how much they spent, and what their behavior was on your site.

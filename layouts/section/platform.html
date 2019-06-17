@@ -21,8 +21,12 @@
       <div class="container">
         <div class="row">
 
-        <h2>Ooops! There's nothing here.</h2>
-
+        <ul>
+        <!-- Renders the li.html content view for each content/posts/*.md -->
+            {{ range .Pages }}
+              <p><a href="{{ .Permalink }}">{{ .Params.name }}</a></p>
+            {{ end }}
+        </ul>
 
         </div>
         <!-- /.row -->

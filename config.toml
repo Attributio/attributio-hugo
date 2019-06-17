@@ -18,7 +18,7 @@ pluralizeListTitles = false
 
 [[menu.main]]
     name = "Meet Your Expert"
-    url  = "/support/"
+    url  = "/join/"
     weight = 4
 
 [[menu.main]]
@@ -106,7 +106,7 @@ pluralizeListTitles = false
     icon = "fa fa-file-code-o"
     title = "Do you want to find out more?"
     subtitle = "Schedule a consultation today."
-    link_url = "/support/"
+    link_url = "/join/"
     link_text = "Meet Your Expert"
 
 [params.clients]

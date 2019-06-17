@@ -3,9 +3,9 @@ title: "Conversion Attribution"
 description: >
   <p>Simple attribution modeling at your fingertips.</p>
   <p>Get the full picture on all your marketing efforts, measure campaign ROI, never miss a lead again.</p>
-  <a href="https://app.attribut.io" class="btn btn-xl btn-danger track" 
+  <a href="/join/" class="btn btn-xl btn-danger btn-block track" 
     data-event-category="Homepage"
     data-event-action="Top Click"
     data-event-label="Red Button"
-    >Configure Your Analytics</a>
+    >Meet Your Expert</a>
 image: "/img/carousel/laptop-analytics-2.png"
