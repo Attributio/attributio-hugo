@@ -1,5 +1,5 @@
 baseurl = "https://attribut.io/"
-title = "Attributio - Attribution Markerting Experts"
+title = "Attributio | Business Intelligence & Analytics Experts"
 theme = "hugo-universal"
 languageCode = "en-us"
 # Site language. Available translations in the theme's `/i18n` directory.
@@ -21,15 +21,21 @@ pluralizeListTitles = false
     url  = "/join/"
     weight = 4
 
+
+[[menu.main]]
+    name = "Docs"
+    url  = "/docs/"
+    weight = 5
+
 [[menu.main]]
     name = "Blog"
     url  = "/blog/"
-    weight = 5
+    weight = 6
 
 [params]
     viewMorePostLink = "/blog/"
     author = "Attributio"
-    defaultKeywords = ["attribution modelling", "google analytics", "conversion tracking", "crm tracking leads", "adwords ppc tracking"]
+    defaultKeywords = ["business intelligence experts", "attribution modelling", "google analytics", "conversion tracking", "crm tracking leads", "adwords ppc tracking"]
     defaultDescription = "Attributio provides tools to track all of the conversions for your business. We help you plug all the holes in your marketing strategy."
 
     # Google Maps API key (if not set will default to not passing a key.)
@@ -73,12 +79,13 @@ pluralizeListTitles = false
     # longitude = "-77.028333"
 
 [Permalinks]
-    blog = "/blog/:year/:month/:day/:filename/"
+    # blog = "/blog/:year/:month/:day/:filename/"
+    blog = "/:filename/"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
-    tags = true
+    # tags = true
     search = true
 
 [params.carousel]

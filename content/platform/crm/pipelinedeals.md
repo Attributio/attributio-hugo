@@ -1,7 +1,10 @@
 +++
-title = "Google Analytics CRM Tracking For PipelineDeals - Attributio"
+title = "Lead Analytics For PipelineDeals | Attributio"
 name = "PipelineDeals"
 keywords = "pipelinedeals, , google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with PipelineDeals to find out where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Measure your advertising ROI in PipelineDeals. Capture source, medium, campaign, and visitor journey data from the first to last touch and compare with Google Analytics."
 logo = ""
+what = "PipelineDeals is customer relationship management (CRM) software geared toward small to midsize businesses (SMBs). It is designed to be an easy transition from working with spreadsheets, which is often how sales teams start out tracking leads and deals. PipelineDeals is the first sales productivity platform to combine sales engagement and CRM in one simple application. It is the strong and forecasting tool for construction firms having powerful sales & bid management platform for a drive."
+benefit = "PipelineDeals automates your sales process by letting your salespeople know what they should do next based on your unique sales process. It automatically adds new tasks when deals advance through your sales pipeline. With PipelineDeals, you can create and effectively manage stronger customer relations, monitor all team activities with just a glance, easily organize resources and manpower and then provide them with tasks that fit their qualifications and skills to accomplish more goals in less time, explore your data and reveal options and opportunities with just a few clicks, and create custom reports that are based on the information that you require."
+why = "PipelineDeals automates your sales process by letting your salespeople know what they should do next based on your unique sales process. It automatically adds new tasks when deals advance through your sales pipeline. With PipelineDeals, you can create and effectively manage stronger customer relations, monitor all team activities with just a glance, easily organize resources and manpower and then provide them with tasks that fit their qualifications and skills to accomplish more goals in less time, explore your data and reveal options and opportunities with just a few clicks, and create custom reports that are based on the information that you require."
 +++

@@ -1,7 +1,10 @@
 +++
-title = "Google Analytics CRM Tracking For NetSuite CRM - Attributio"
+title = "Lead Analytics For NetSuite CRM | Attributio"
 name = "NetSuite CRM"
 keywords = "netsuite, netsuite crm, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with NetSuite CRM to find out where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Measure your advertising ROI in NetSuite CRM. Capture source, medium, campaign, and visitor journey data from the first to last touch and compare with Google Analytics."
 logo = ""
+what = "NetSuite’s Customer Relationship Management (CRM) software is the only cloud solution that delivers a real-time, 360-degree view of your customers. NetSuite CRM provides a seamless flow of information across the entire customer lifecycle—from lead all the way through opportunity, sales order, fulfillment, renewal, upsell, cross-sell and support. In addition to offering traditional CRM capabilities such as SFA, customer service management and marketing automation, NetSuite CRM delivers quotes, order management, commissions, sales forecasting and integrated ecommerce capabilities."
+benefit = "NetSuite’s Customer Relationship Management (CRM) software is the only cloud solution that delivers a real-time, 360-degree view of your customers. NetSuite CRM provides a seamless flow of information across the entire customer lifecycle—from lead all the way through opportunity, sales order, fulfillment, renewal, upsell, cross-sell and support. In addition to offering traditional CRM capabilities such as SFA, customer service management and marketing automation, NetSuite CRM delivers quotes, order management, commissions, sales forecasting and integrated ecommerce capabilities."
+why = "If you want a complete customer relationship management platform, you can try NetSuite CRM. It comes with a robust set of features that include automated tools for partner relationship and marketing, and even conventional CRM functionalities like customer service management and SFA. Contact management is one functionality that you may find very useful to your business. All customer interactions are laid out in a very convenient timeline and you can easily put to task your departments or individual team members to access your customers’ information and history."
 +++

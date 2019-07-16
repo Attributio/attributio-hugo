@@ -1,7 +1,10 @@
 +++
-title = "Google Analytics CRM Tracking For SAP CRM - Attributio"
+title = "Lead Analytics For SAP CRM | Attributio"
 name = "SAP CRM"
 keywords = "sapcrm, sap crm, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with SAP CRM to find out where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Measure your advertising ROI in SAP CRM. Capture source, medium, campaign, and visitor journey data from the first to last touch and compare with Google Analytics."
 logo = "/img/platform/crm/sapcrm.png"
+what = "SAP CRM is a part of SAP business suite. It is the CRM tool provided by SAP and is used for many business processes. The SAP CRM applications have been initially an integrated on-premise customer relationship management (CRM) software manufactured by SAP SE which targeted business software requirements for marketing, sales and service of midsize and large organizations in all industries and sectors. The first SAP CRM release 2.0 has been made generally available in November 2000. The current release 7.0 is being updated with quarterly enhancement packs (EHPs) since 2012."
+benefit = "If you want to stay connected to your customers, SAP CRM can help you do that. This way you can achieve customer expectations with the types of services and products that he or she actually needs. It also helps to achieve 'Single face to customer', which means the customer get regular & actual information independent of channel through which he or she is contacting your company. CRM Analytics, a component of SAP CRM, enables your organization to gather all relevant information about various key factors such as a customer and analyze this knowledgebase to incorporate insights into operational processes and strategic decision-making."
+why = "SAP CRM can implement customized business processes, integrate to other SAP and non-SAP systems, and help achieve CRM strategies. It is a part of SAP Business Suite to manage customer relationship and support all customer-focused business areas such as marketing, sales and service. It is implemented for different customer interaction channels, such as Interaction Centre, Internet, and Mobile clients (hand-held devices like laptop, mobile, etc.)."
 +++

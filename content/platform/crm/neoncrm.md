@@ -1,7 +1,7 @@
 +++
-title = "Google Analytics CRM Tracking For NeonCRM - Attributio"
+title = "Lead Analytics For NeonCRM | Attributio"
 name = "NeonCRM"
 keywords = "neoncrm, , google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with NeonCRM to find out where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Measure your advertising ROI in NeonCRM. Capture source, medium, campaign, and visitor journey data from the first to last touch and compare with Google Analytics."
 logo = ""
 +++

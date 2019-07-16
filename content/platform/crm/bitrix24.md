@@ -1,7 +1,10 @@
 +++
-title = "Google Analytics CRM Tracking For Bitrix24 - Attributio"
+title = "Lead Analytics For Bitrix24 | Attributio"
 name = "Bitrix24"
 keywords = "bitrix24, bitrix 24, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with Bitrix24 to find out where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Measure your advertising ROI in Bitrix24. Capture source, medium, campaign, and visitor journey data from the first to last touch and compare with Google Analytics."
 logo = ""
+what = "Bitrix24 is a collaboration platform that provides you a complete suite of social collaboration, communication, and management tools for your business team.  It was founded by CEO Sergey Rizhikov and four fellow Russian businessmen in 1998. Bitrix24 was originally just 'Bitrix” but over time, the company’s focus has shifted until Bitrix released Bitrix24 Cloud in 2012."
+benefit = "Being customer relationship management software, Bitrix24 can help you collaborate with others effectively. It can improve your marketing efforts by sending messages to your contacts, tracking the frequency and volume of sales, and managing a thorough product database within your office or across the organization. Bitrix24 allows you to organize, manage and implement your day to day activities with ease. You can easily stratify your work into sequenced tasks. This allows an innovative way to complete your jobs on a timely basis without the worry of the deadline."
+why = "Founded as a collaboration tool, Bitrix24 has features such as chats, employee polls, video conferencing, lead management, invoices, sales reports, task management, Gantt & Kanban, file storage, employee request workflows, and much more. The final and newest feature that Bitrix24 offers to you is the website builder. Launched in 2017, Bitrix24 Sites aims to create 'beautiful sites and landing pages that help you sell more.” Bitrix24 sites come with unlimited hosting bandwidth and let you create as many pages as you want, all for free. It also offers a number of website templates catered for most industries. This means that you can create an appropriate website, even with little technical expertise."
 +++

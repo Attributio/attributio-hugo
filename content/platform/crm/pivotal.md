@@ -1,7 +1,7 @@
 +++
-title = "Google Analytics CRM Tracking For Pivotal - Attributio"
+title = "Lead Analytics For Pivotal | Attributio"
 name = "Pivotal"
 keywords = "pivotal, , google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with Pivotal to find out where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Measure your advertising ROI in Pivotal. Capture source, medium, campaign, and visitor journey data from the first to last touch and compare with Google Analytics."
 logo = ""
 +++

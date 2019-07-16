@@ -3,6 +3,9 @@ body,
 body p {
   font-size: 16px; 
 }
+.top {
+  margin-top: 40px;
+}
 
 .box-image-text .image {
   min-height: 200px;
@@ -10,6 +13,10 @@ body p {
 }
 
 .box-simple {
+
+}
+
+.box-simple.custom {
   min-height: 230px;
 }
 
@@ -17,7 +24,7 @@ body p {
   font-weight: 500;
   text-transform: none;
   font-size: 36px;
-  letter-spacing: 0.02em;
+  letter-spacing: 0.00em;
 }
 
 .home-carousel p {
@@ -25,7 +32,7 @@ body p {
   font-weight: 500;
   padding: 0;
   text-transform: none;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.02em;
 }
 
 .btn-xl {
@@ -37,6 +44,18 @@ body p {
 
 .home-carousel {
   background: url('../img/startup-0.svg'), url('../img/photogrid.jpg'), center center repeat;
+}
+
+.page-carousel {
+  background: url('../img/startup-0.svg') center center repeat;
+  background-size: cover;
+  background-color: #eee;
+  padding-top: 30px;
+}
+
+.lt-padding {
+  padding-top: 30px;
+  padding-left: 30px;
 }
 
 .home-carousel .medium-mask {
@@ -159,7 +178,8 @@ blockquote {
 
 /* Blog Styling Start */
 @media (min-width: 992px) {
-    .email-signup-form-container.affix {
+    .email-signup-form-container.affix,
+    .section-nav.affix {
         position: fixed;
         top: 100px;
         width: auto;
@@ -167,7 +187,8 @@ blockquote {
     }
 }
 @media (max-width: 992px) {
-    .email-signup-form-container.affix {
+    .email-signup-form-container.affix,
+    .section-nav.affix {
         position: static;
     }
 }
@@ -201,4 +222,31 @@ blockquote {
 #heading-breadcrumbs h1,
 .text-uppercase {
     letter-spacing: 0.05em;
+}
+
+.section-nav {
+  padding-left: 20px;
+}
+
+.section-nav ul {
+  padding-left: 1rem;
+}
+
+.toc-entry {
+  display: block
+}
+
+.toc-entry a {
+  display: block;
+  padding: .125rem 1.5rem;
+  color: #77757a
+}
+
+.toc-entry a:hover {
+  color: #007bff;
+  text-decoration: none
+}
+
+p.small {
+  font-size: 14px; 
 }

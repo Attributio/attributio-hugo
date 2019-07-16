@@ -7,6 +7,9 @@ banner = "/img/blog/201811/lead-form-1.png"
 keywords = "google analytics, google analytics offline sales, track offline sales, salesforce, measure roa, measure roi, salesforce roi, marketing roi"
 description = "Part 1 of a step by step guide to setting up your Salesforce account to measure ROI on ads, campaigns, and keywords in Google Analytics ."
 author = "Attributio"
+aliases = [
+    "/blog/2018/11/21/the-ultimate-guide-to-measure-roi-on-your-direct-marketing-efforts-with-salesforce-and-google-analytics-1/"
+]
 +++
 
 

@@ -7,6 +7,9 @@ banner = "/img/blog/201812/sf-process-builder.png"
 keywords = "google analytics, google analytics offline sales, track offline sales, salesforce, measure roa, measure roi, salesforce roi, marketing roi"
 description = "Part 2 of a step by step guide to setting up your Salesforce account to measure ROI on ads, campaigns, and keywords in Google Analytics ."
 author = "Attributio"
+aliases = [
+    "/blog/2018/12/05/the-ultimate-guide-to-measure-roi-on-your-direct-marketing-efforts-with-salesforce-and-google-analytics-2/"
+]
 +++
 
 ## Send Revenue Data To Google Analytics

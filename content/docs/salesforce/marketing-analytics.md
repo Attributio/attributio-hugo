@@ -3,6 +3,7 @@ title = "Salesforce Marketing Analytics App Documentation"
 date = "2018-12-18"
 description = "Instructions to download and install Attributio Marketing Analytics App integration with Google Analytics for Salesforce"
 author = "Attributio"
+anchors = ["installation", "configure-remote-site-settings", "configure-lead-mappings", "configure-web-to-lead-form", "configure-ga-activity-link", "workflow"]
 +++
 
 
@@ -14,7 +15,7 @@ Follow the link provided to you and select the option to "Install for All Users"
 
 <br>
 
-### Configure remote site settings in Salesforce
+### Configure remote site settings
 
 1. Navigate to Setup > Settings > Security > Remote Site Settings and create a new setting
 	<br><br>
@@ -60,7 +61,7 @@ Follow the link provided to you and select the option to "Install for All Users"
 5. You will need to use some javascript to retreive the client id from Google Analytics and add it to your hidden field. You can find detailed instructions <a href="/blog/2017/04/27/track-conversions-with-google-analytics-client-id/">here</a>.
 6. You can manually set the values of GA Revenue ID & GA Tracking ID in the form.
 
-## Configure Your GA Activity Link
+## Configure GA Activity Link
 
 In order to view your Lead's activity on your website via Google Analytics, you'll need to add a custom setting and add the custom link object provided by this app into your desired layout in Leads, Accounts, and Opportunities.
 

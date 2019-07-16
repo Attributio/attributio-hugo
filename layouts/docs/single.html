@@ -21,12 +21,18 @@
             <div class="container">
 
                 <div class="row">
-
-                    <!-- *** LEFT COLUMN *** -->
+                    <div class="col-md-3">
+                        <div class="d-none d-xl-block col-xl-2 bd-toc">
+                            <ul class="section-nav" data-spy="affix" data-offset-top="100">
+                            {{ $pageLink := .Permalink }}
+                            {{ range .Params.anchors }}
+                                <li class="toc-entry toc-h2"><a href="{{ $pageLink }}#{{ . }}">{{ humanize . }}</a></li>
+                            {{ end }}
+                            </ul>
+                        </div>
+                    </div>
 
                     <div class="col-md-9" id="blog-post">
-
-                        <p class="text-muted text-uppercase mb-small text-right">{{ if .Params.author }}By <a href="#">{{ .Params.author }}</a> | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
 
                         <div id="post-content">
                           {{ .Content }}
@@ -39,27 +45,6 @@
                         {{ end }}
 
                     </div>
-                    <!-- /#blog-post -->
-
-                    <!-- *** LEFT COLUMN END *** -->
-
-                    <!-- *** RIGHT COLUMN *** -->
-
-                    <div class="col-md-3">
-
-                        <!-- *** MENUS AND WIDGETS *** -->
-
-                        {{ partial "widgets/search.html" . }}
-
-
-                        <!-- *** MENUS AND FILTERS END *** -->
-
-                        {{ partial "email-signup.html" . }}
-
-                    </div>
-                    <!-- /.col-md-3 -->
-
-                    <!-- *** RIGHT COLUMN END *** -->
 
                 </div>
                 <!-- /.row -->

@@ -1,7 +1,7 @@
 +++
-title = "Google Analytics CRM Tracking For CiviCRM - Attributio"
+title = "Lead Analytics For CiviCRM | Attributio"
 name = "CiviCRM"
 keywords = "civicrm, , google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with CiviCRM to find out where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Measure your advertising ROI in CiviCRM. Capture source, medium, campaign, and visitor journey data from the first to last touch and compare with Google Analytics."
 logo = ""
 +++

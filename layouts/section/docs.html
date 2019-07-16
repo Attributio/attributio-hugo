@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+
+  {{ partial "analytics_ns.html" . }}
+
+  <div id="all">
+
+    <header>
+
+      {{ partial "nav.html" . }}
+
+    </header>
+
+    <div id="heading-breadcrumbs">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <h1>Documentation</h1>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="content">
+      <div class="container">
+        <div class="row">
+
+        <h3>Attributio</h3>
+
+        {{ range where .Pages "File.Dir" "in" "/docs/attributio/" }}
+              <p><a href="{{ .Permalink }}">{{ .Params.Title }}</a></p>
+        {{ end }}
+
+        <h3>Salesforce</h3>
+
+        {{ range where .Pages "File.Dir" "in" "/docs/salesforce/" }}
+              <p><a href="{{ .Permalink }}">{{ .Params.Title }}</a></p>
+        {{ end }}
+
+        </div>
+        <!-- /.row -->
+      </div>
+      <!-- /.container -->
+    </div>
+    <!-- /#content -->
+
+    {{ partial "footer.html" . }}
+
+  </div>
+  <!-- /#all -->
+
+  {{ partial "scripts.html" . }}
+
+</body>
+</html>

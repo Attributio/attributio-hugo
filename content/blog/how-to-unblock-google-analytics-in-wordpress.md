@@ -7,6 +7,9 @@ banner = "/img/blog/201806/ublock.png"
 keywords = "google analytics conversion tracking, google analytics attribution, custom attribution model with google analytics, remove direct google analytics, wordpress google analytics, wordpress adblock google analytics"
 description = "A simple way to unblock adblockers that may be skewing your analytics data."
 author = "Attributio"
+aliases = [
+    "/blog/2018/06/25/how-to-unblock-google-analytics-in-wordpress/"
+]
 +++
 
 

@@ -1,7 +1,7 @@
 +++
-title = "Google Analytics CRM Tracking For Vtiger CRM - Attributio"
+title = "Lead Analytics For Vtiger CRM | Attributio"
 name = "Vtiger CRM"
 keywords = "vtiger, vtiger crm, google analytics, crm, adwords, facebook, ppc, attribution, track leads, conversion tracking"
-description = "Connect Google Analytics with Vtiger CRM to find out where your leads are coming from. Track leads from the source - from search to ppc."
+description = "Measure your advertising ROI in Vtiger CRM. Capture source, medium, campaign, and visitor journey data from the first to last touch and compare with Google Analytics."
 logo = "/img/platform/crm/vtiger.png"
 +++

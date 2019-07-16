@@ -7,6 +7,9 @@ banner = "/img/blog/201811/revenue.png"
 keywords = "google analytics, google analytics offline sales, track offline sales"
 description = "Track all of your offline sales figures in Google Analytics so you can measure your ROI."
 author = "Attributio"
+aliases = [
+    "/blog/2018/11/19/tracking-offline-sales-in-google-analytics/"
+]
 +++
 
 
