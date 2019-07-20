@@ -4,7 +4,7 @@ description: >
   <p>Simple attribution modeling at your fingertips.</p>
   <p>Business intelligence for growth.</p>
   <p>Get the full picture on all your marketing efforts, measure campaign ROI, never lose a deal again.</p>
-  <a href="/join/" class="btn btn-xl btn-danger btn-block track" 
+  <a href="/meet/" class="btn btn-xl btn-danger btn-block track" 
     data-event-category="Homepage"
     data-event-action="Top Click"
     data-event-label="Red Button"

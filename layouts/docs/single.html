@@ -23,7 +23,7 @@
                 <div class="row">
                     <div class="col-md-3">
                         <div class="d-none d-xl-block col-xl-2 bd-toc">
-                            <ul class="section-nav" data-spy="affix" data-offset-top="100">
+                            <ul class="section-nav" data-spy="affix" data-offset-top="100" data-offset-bottom="500">
                             {{ $pageLink := .Permalink }}
                             {{ range .Params.anchors }}
                                 <li class="toc-entry toc-h2"><a href="{{ $pageLink }}#{{ . }}">{{ humanize . }}</a></li>

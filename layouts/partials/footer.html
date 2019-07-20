@@ -5,11 +5,17 @@
 
 <!-- *** FOOTER END *** -->
 
+<div class="internal-links">
+	{{ partial "widgets/internal-links.html" . }}
+</div>
+
 <!-- *** COPYRIGHT ***
 _________________________________________________________ -->
 
 <div id="copyright">
+
     <div class="container">
+
         <div class="col-md-12">
             {{ if isset .Site.Params "copyright" }}
             <p class="text-center">{{ .Site.Params.copyright | safeHTML }}</p>

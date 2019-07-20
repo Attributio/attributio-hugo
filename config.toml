@@ -17,8 +17,8 @@ pluralizeListTitles = false
 [menu]
 
 [[menu.main]]
-    name = "Meet Your Expert"
-    url  = "/join/"
+    name = "Meet"
+    url  = "/meet/"
     weight = 4
 
 
@@ -31,6 +31,11 @@ pluralizeListTitles = false
     name = "Blog"
     url  = "/blog/"
     weight = 6
+
+[sitemap]
+  changefreq = "daily"
+  filename = "sitemap.xml"
+  priority = 0.5
 
 [params]
     viewMorePostLink = "/blog/"
@@ -85,7 +90,7 @@ pluralizeListTitles = false
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     categories = true
-    # tags = true
+    tags = true
     search = true
 
 [params.carousel]
@@ -101,19 +106,19 @@ pluralizeListTitles = false
     # For more informtion take a look at the README.
 
 [params.testimonials]
-    enable = false
+    enable = true
     # All testimonials are defined in their own files. You can find example items
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
-    # title = "Testimonials"
-    # subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
+    title = "Testimonials"
+    subtitle = "We have worked with many clients and we always like to hear they come out from the cooperation happy and satisfied. Have a look what our clients said about us."
 
 [params.see_more]
     enable = true
     icon = "fa fa-file-code-o"
     title = "Do you want to find out more?"
     subtitle = "Schedule a consultation today."
-    link_url = "/join/"
+    link_url = "/meet/"
     link_text = "Meet Your Expert"
 
 [params.clients]

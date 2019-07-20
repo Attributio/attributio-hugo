@@ -1,0 +1,94 @@
+<div class="container">  
+  <div class="col-md-12">
+    <div class="row">
+      <div class="col-md-3">
+        <div class="box-simple">
+          <h5>Blog Posts</h5>
+
+          <ul>
+            {{ range first 5 (where .Site.Pages "Type" "blog") }}
+            <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+            {{ end }}
+
+          </ul>
+
+        </div>
+      </div>
+      <div class="col-md-3">
+        <div class="box-simple">
+          <h5>CRMs</h5>
+          <div class="col-md-6">
+            <ul>
+              <li><a href={{ "/platform/crm/salesforce" | absURL }} >Salesforce</a></li>
+              <li><a href={{ "/platform/crm/zohocrm" | absURL }} >Zoho CRM</a></li>
+              <li><a href={{ "/platform/crm/pipedrive" | absURL }} >Piedrive</a></li>
+              <li><a href={{ "/platform/crm/basecrm" | absURL }} >Zendesk Sell</a></li>
+              <li><a href={{ "/platform/crm/microsoftdynamicscrm" | absURL }} >Microsoft Dynamics CRM</a></li>
+              <li><a href={{ "/platform/crm/freshsales" | absURL }} >Freshsales</a></li>
+              <li><a href={{ "/platform/crm/highrise" | absURL }} >Highrise</a></li>
+            </ul>
+          </div>
+          <div class="col-md-6">
+            <ul>
+              <li><a href={{ "/platform/crm/hubspot" | absURL }} >Hubspot</a></li>
+              <li><a href={{ "/platform/crm/insightly" | absURL }} >Insightly</a></li>
+              <li><a href={{ "/platform/crm/copper" | absURL }} >Copper</a></li>
+              <li><a href={{ "/platform/crm/netsuite" | absURL }} >NetSuite</a></li>
+              <li><a href={{ "/platform/crm/oraclecrm" | absURL }} >Oracle CRM</a></li>
+              <li><a href={{ "/platform/crm/quickbase" | absURL }} >QuickBase</a></li>
+              <li><a href={{ "/platform/crm/suitecrm" | absURL }} >SuiteCRM</a></li>
+              <li><a href={{ "/platform/crm/close" | absURL }} >Close.io</a></li>
+
+            </ul>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="box-simple">
+          <h5>Ecommerce</h5>
+            <ul>
+              <li><a href={{ "/platform/ecommerce/shopify" | absURL }} >Shopify</a></li>
+              <li><a href={{ "/platform/ecommerce/woocommerce" | absURL }} >WooCommerce</a></li>
+              <li><a href={{ "/platform/ecommerce/opencart" | absURL }} >Opencart</a></li>
+              <li><a href={{ "/platform/ecommerce/magento" | absURL }} >Magento</a></li>
+              <li><a href={{ "/platform/ecommerce/cscart" | absURL }} >CS Cart</a></li>
+              <li><a href={{ "/platform/ecommerce/oscommerce" | absURL }} >OS Commerce</a></li>
+              <li><a href={{ "/platform/ecommerce/prestashop" | absURL }} >Prestashop</a></li>
+              <li><a href={{ "/platform/ecommerce/spree" | absURL }} >Spree Commerce</a></li>
+            </ul>
+        </div>
+      </div>
+      <div class="col-md-2">
+        <div class="box-simple">
+          <h5>CMSs</h5>
+            <ul>
+              <li><a href={{ "/platform/cms/wordpress" | absURL }} >Wordpress</a></li>
+              <li><a href={{ "/platform/cms/ghost" | absURL }} >Ghost</a></li>
+              <li><a href={{ "/platform/cms/drupal" | absURL }} >Drupal</a></li>
+              <li><a href={{ "/platform/cms/instapage" | absURL }} >Instapage</a></li>
+              <li><a href={{ "/platform/cms/joomla" | absURL }} >Joomla</a></li>
+              <li><a href={{ "/platform/cms/unbounce" | absURL }} >Unbounce</a></li>
+              <li><a href={{ "/platform/cms/leadpages" | absURL }} >LeadPages</a></li>
+              <li><a href={{ "/platform/cms/sharepoint" | absURL }} >Sharepoint</a></li>
+            </ul>
+        </div>
+      </div>      
+      <div class="col-md-2">
+        <div class="box-simple">
+          <h5>Others</h5>
+            <ul>
+              <li><a href={{ "/platform/formbuilder/clickfunnels" | absURL }} >ClickFunnels</a></li>
+              <li><a href={{ "/platform/live-chat/intercom" | absURL }} >Intercom</a></li>
+              <li><a href={{ "/platform/live-chat/crisp" | absURL }} >Crisp</a></li>
+              <li><a href={{ "/platform/call-tracking/callrail" | absURL }} >CallRail</a></li>
+              <li><a href={{ "/platform/call-tracking/twilio" | absURL }} >Twilio</a></li>
+              <li><a href={{ "/platform/call-tracking/calltrackingmetrics" | absURL }} >CallTrackingMetrics</a></li>
+              <li><a href={{ "/platform/payment/stripe" | absURL }} >Stripe</a></li>
+              <li><a href={{ "/platform/scheduling/calendly" | absURL }} >Calendly</a></li>
+            </ul>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>

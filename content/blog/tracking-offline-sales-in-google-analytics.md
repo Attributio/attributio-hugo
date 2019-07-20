@@ -19,7 +19,7 @@ If you're collecting leads online and converting them over the phone through you
 
 ## Configure Google Analytics to store revenue data
 
-You will also need to create a custom metric in your Google Analytics property to represent revenue data (you can do this easily with our <a href="https://app.attribut.io?utm_medium=blog">app</a>). Once that has been set, you can send the client id that was captured during the online lead conversion process along with the total value of that deal to Google Anaytics to get a picture of your ROI.
+You will also need to create a custom metric in your Google Analytics property to represent revenue data (you can do this easily with our <a href="app.attribut.io">app</a>). Once that has been set, you can send the client id that was captured during the online lead conversion process along with the total value of that deal to Google Anaytics to get a picture of your ROI.
 
 If you can't collect the client id, which Google uses to match all of that user's behavior in Google Analytics with the data that you want to see, you will need to send a User ID. If you aren't using an authentication system where your customers have id's associated with their accounts, you can just add the id generated from your CRM and send that along with the revenue data. You will need one or the other, otherwise Google Analytics will not register the event data that you will be sending to it's servers.
 
@@ -37,6 +37,4 @@ In Google Analytics you will need to create a report that lists the custom metri
 
 And there you have it. Now you can track the ROI of all your advertising in Google Analytics along with all of your sales that happen offline.
 
-If you need help tracking your goals across multiple domains or subdomains, we have experts standing by to [configure your analytics for tracking offline sales. Meet Your Expert Today!](/join/)
-
-We also recommend our clients to utilize additional tools like <a href="https://shareasale.com/r.cfm?b=462846&u=1517931&m=46217&urllink=&afftrack=">Improvely</a>. They have a great feature that profiles your customers so you can have a granular look at how they arrived, how much they spent, and what their behavior was on your site.
+If you want to see a demo [let us know!](/meet/)

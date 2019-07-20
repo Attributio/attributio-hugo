@@ -79,6 +79,4 @@ In Google Tag Manager you will need to set the Field Name of Fields to Set add "
 
 ## Conclusion
 
-There you have it. Now you're ready to start tracking across multiple subdomains. If you need help tracking your goals across multiple domains or subdomains, we have experts standing by to [configure your analytics for cross domain tracking. Meet Your Expert Today!](/support/)
-
-We also recommend our clients to utilize additional tools like <a href="https://shareasale.com/r.cfm?b=462846&u=1517931&m=46217&urllink=&afftrack=">Improvely</a>. They have a great feature that profiles your customers so you can have a granular look at how they arrived, how much they spent, and what their behavior was on your site.
+There you have it. Now you're ready to start tracking across multiple subdomains. If you need help tracking your goals across multiple domains or subdomains to collect analytics for your leads [request a consultation today!](/meet/)

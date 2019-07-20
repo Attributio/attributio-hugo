@@ -28,18 +28,24 @@
     <div id="content">
       <div class="container">
         <div class="row">
+          <div class="col-xs-10 col-xs-offset-1">
 
-        <h3>Attributio</h3>
+            <h3>Attributio</h3>
 
-        {{ range where .Pages "File.Dir" "in" "/docs/attributio/" }}
+            {{ range where .Pages "File.Dir" "in" "/docs/attributio/" }}
               <p><a href="{{ .Permalink }}">{{ .Params.Title }}</a></p>
-        {{ end }}
+            {{ end }}
 
-        <h3>Salesforce</h3>
+            <hr>
 
-        {{ range where .Pages "File.Dir" "in" "/docs/salesforce/" }}
+            <h3>Salesforce</h3>
+
+            {{ range where .Pages "File.Dir" "in" "/docs/salesforce/" }}
               <p><a href="{{ .Permalink }}">{{ .Params.Title }}</a></p>
-        {{ end }}
+            {{ end }}
+
+            <hr>
+          </div>
 
         </div>
         <!-- /.row -->

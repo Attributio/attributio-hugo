@@ -3,7 +3,7 @@ title = "Do Paid Ads Really Work?"
 date = "2019-07-02"
 tags = ["advertising, google, attribution"]
 categories = ["attribution"]
-banner = ""
+banner = "/img/blog/201907/adspend.png"
 keywords = "conversion attribution for paid advertising, conversion attribution for google search, paid advertising vs content marketing, who gets credit for conversions"
 description = "Advertising vs content marketing: who gets credit for conversions?"
 author = "Attributio"
@@ -43,5 +43,5 @@ You can ignore First Interaction or Last Interaction Session data that includes 
 
 Now this is where things get interesting. You can do a whole lot of analysis with the session data that you store. Typically collecting First and Last Interaction Session data is way more than companies typically have at their disposal but if you spend a significant amount of money on advertising, you're going to want more. You could, for example, give weighted scores to sources, mediums, campaigns, and even keywords to all of the relevant sessions that assisted in conversions and you could even apply your own filters to determine which channels should be given more weight.
 
-These reports take time to set up but the most important part of the puzzle is to implement your analytics strategy so that you have enough data to make sense of your conversions. And if you need help, <a href="/join">we're here for that</a>.
+These reports take time to set up but the most important part of the puzzle is to implement your analytics strategy so that you have enough data to make sense of your conversions. And if you need help, <a href="/meet/">we're here for that</a>.
 
