@@ -32,10 +32,15 @@
                             By <a href="#">{{ .Params.author }}</a> | 
                         {{ end }} -->
 
+                        {{ if .Params.header }}
+                            <img class="img-responsive img-thumbnail" src="{{ .Params.header }}" alt="{{ .Params.alt }}"/>
+                        {{ end }}
+                        <br>
+
                         {{ if .Params.lastmod }}
-                            Last updated: {{ .Lastmod.Format .Site.Params.date_format }}
+                            <div class="small text-right">Last updated: {{ .Lastmod.Format .Site.Params.date_format }}</div>
                         {{ else }}
-                            {{ .Date.Format .Site.Params.date_format }}
+                            <div class="small text-right">{{ .Date.Format .Site.Params.date_format }}</div>
                         {{ end }}
 
                         </p>
@@ -43,6 +48,19 @@
                         <div id="post-content">
                           {{ .Content }}
                         </div>
+
+                        <hr>
+
+                        <h4>Recent Blog Posts</h4>
+
+                        <ul>
+                        {{ range first 5 (where .Site.Pages "Type" "blog") }}
+                        <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                        {{ end }}
+                        </ul>
+
+                        <br>
+
                         <!-- /#post-content -->
                         {{ if .Site.DisqusShortname }}
                         <div id="comments">
@@ -86,10 +104,6 @@
     <!-- /#all -->
 
     {{ partial "scripts.html" . }}
-
-    <link rel="stylesheet" type="text/css" href="/css/jquery.floating-social-share.css" />
-    <script type="text/javascript" src="/js/jquery.floating-social-share.js"></script>
-    <script type="text/javascript" src="/js/social-share.js"></script>
 
   </body>
 </html>

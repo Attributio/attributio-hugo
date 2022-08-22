@@ -20,15 +20,23 @@ body p {
   min-height: 230px;
 }
 
+.home-carousel .owl-carousel {
+  padding-top: 40px;
+}
+
+.home-carousel .copy {
+  padding-left: 40px;
+}
+
 .home-carousel h1 {
   font-weight: 500;
   text-transform: none;
-  font-size: 36px;
+  font-size: 38px;
   letter-spacing: 0.00em;
 }
 
 .home-carousel p {
-  font-size: 20px;
+  font-size: 24px;
   font-weight: 500;
   padding: 0;
   text-transform: none;
@@ -43,7 +51,8 @@ body p {
 }
 
 .home-carousel {
-  background: url('../img/startup-0.svg'), url('../img/photogrid.jpg'), center center repeat;
+  /*background: url('../img/startup-0.svg'), url('../img/photogrid.jpg'), center center repeat;*/
+  background: none;
 }
 
 .page-carousel {
@@ -230,7 +239,7 @@ blockquote {
 
 #heading-breadcrumbs h1,
 .text-uppercase {
-    letter-spacing: 0.05em;
+    letter-spacing: 0.04em;
 }
 
 .section-nav {
@@ -260,18 +269,35 @@ p.small {
   font-size: 14px; 
 }
 .internal-links {
-    background: #333;
-    padding-top: 50px;
+  background: #333;
+  padding-top: 50px;
 }
 .internal-links li, h5 {
-    color: #ccc;
-    font-size: 12px;
-    line-height: 28px;
+  color: #ccc;
+  font-size: 12px;
+  line-height: 28px;
 }
 .internal-links ul {
-    list-style-type: none;
-    padding-left: 0px;
+  list-style-type: none;
+  padding-left: 0px;
 }
 .affix-bottom {
-    position: relative
+  position: relative
+}
+h4.callout {
+  text-align: center;;
+  color: #564a4a;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.3;
+  font-size: 17px;
+
+}
+ul.callout {
+  padding-inline-start: 0px;
+}
+.callout li {
+  font-size: 14px;
+  text-align: center;
+  list-style-type: none;
 }

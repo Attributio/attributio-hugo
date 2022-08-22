@@ -1,5 +1,5 @@
 +++
-title = "The Ultimate Guide to Measure ROI On Your Direct Marketing Efforts With Salesforce & Google Analytics"
+title = "The Ultimate Guide to Measure ROI with Salesforce & Google Analytics"
 date = "2018-11-21"
 tags = ["google analytics", "crm", "offline sales", "salesforce", "ROA"]
 categories = ["tutorial", "google analytics"]
@@ -10,7 +10,8 @@ author = "Attributio"
 aliases = [
     "/blog/2018/11/21/the-ultimate-guide-to-measure-roi-on-your-direct-marketing-efforts-with-salesforce-and-google-analytics-1/",
     "/blog/2018/12/05/the-ultimate-guide-to-measure-roi-on-your-direct-marketing-efforts-with-salesforce-and-google-analytics-2/",
-    "/the-ultimate-guide-to-measure-roi-on-your-direct-marketing-efforts-with-salesforce-and-google-analytics-2/"
+    "/the-ultimate-guide-to-measure-roi-on-your-direct-marketing-efforts-with-salesforce-and-google-analytics-2/",
+    "/the-ultimate-guide-to-measure-roi-on-your-direct-marketing-efforts-with-salesforce-and-google-analytics/"
 ]
 +++
 

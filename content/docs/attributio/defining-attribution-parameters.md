@@ -2,7 +2,7 @@
 title = "Defining Attribution Parameters"
 description = "Options for defining attribution"
 author = "Attributio"
-anchors = ["sessions", "definitions", "fields", "custom-fields", "custom sessions", "google-analytics"]
+anchors = ["sessions", "definitions", "fields", "custom-fields", "custom sessions", "requirements", "google-analytics"]
 +++
 
 
@@ -82,6 +82,14 @@ Include additionals fields as follows:
 Often visitors convert after doing a branded paid or organic search. We typically do not want that information as attribution will typically be credited to Google where little weight should be placed. In these cases, we can set conditions to ignore certain paid branded clicks as Last Impressions and store the previous session with more valuable data.
 
 There are many scenarios you can imagine for a custom fit attribution model for your company.
+
+## Requirements
+
+It is recommended to use SSL for all traffic to your site. Ensure that all non-ssl links are redirected to a standard SSL encrypted version of your site either containing the subdomain www or not. 
+
+If visitors to your site jump between non-encrypted and encrypted versions of your site or between subdomains, session data will not be consistent and original attribution data will be lost.
+
+When configuring redirects, all url parameters must be retained. If they are lost on redirect, session data will not properly be stored.
 
 ## Google Analytics
 

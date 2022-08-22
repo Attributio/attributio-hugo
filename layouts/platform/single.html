@@ -22,12 +22,12 @@
               <div class="homepage owl-carousel">
                 <div class="item">
                   <div class="row">
-                    <div class="col-xs-12 col-sm-6 pull-center">
+                    <div class="col-xs-12 col-sm-offset-1 col-sm-5 pull-center">
                       <div class="row">
-                        <div class="col-xs-6 col-sm-6">
+                        <div class="col-xs-offset-1 col-xs-5 col-sm-5">
                           <img class="img-responsive center-block" src="/img/platform/ads/google.png" alt="">
                         </div>
-                        <div class="col-xs-6 col-sm-6">
+                        <div class="col-xs-5 col-sm-5">
                           <img class="img-responsive center-block" src="/img/platform/ads/facebook.png" alt="">
                         </div>
                       </div>
@@ -37,7 +37,7 @@
                         </div>
                       </div>
                       <div class="row">
-                        <div class="col-xs-10 col-xs-offset-1">
+                        <div class="col-xs-8 col-xs-offset-2">
                         {{ if .Params.logo }}
                           <img class="img-responsive center-block" src="{{ .Params.logo }}" alt="">
                         {{ else }}
@@ -55,19 +55,14 @@
                           <img class="img-responsive center-block" src="/img/platform/google.png" alt="">
                         </div>
                       </div>
-
                     </div>
-                    <div class="col-xs-12 col-sm-6">
-                      <h1>Conversion Tracking For {{ .Params.name }}</h1>
-                      <p>Discover your lead generators by collecting key metrics on your visitors.</p>
-                      <p>Managed business intelligence with data from {{ .Params.name }} and Google Analytics.</p>
-                      <p>Optimize your sales and marketing efforts with simple data that just makes sense.</p>
-                      <a href="/meet/" class="btn btn-xl btn-danger btn-block track" 
-                        data-event-category="Platform Page"
-                        data-event-action="Top Click"
-                        data-event-label="Red Button"
-                        >Meet Your Expert</a>
 
+                    <div class="col-xs-12 col-sm-5 copy text-center">
+                      <h1>Measure Marketing ROI</h1>
+                      <p>Bridge the gap between sales and marketing.</p>
+                      <p>Connect campaign data with closed deals.</p>
+                      <p>Supercharge your marketing with the power of Analytics in {{ .Params.name }}.</p>
+                      <a href="/meet/" class="btn btn-xl btn-danger btn-block">Find out more</a>
                     </div>
                   </div>
                 </div>
@@ -87,7 +82,8 @@
                       <i class="fa fa-handshake-o"></i>
                     </div>
                     <h3>Meet Your Expert</h3>
-                    <p>We'll match you with the best analytics expert for {{ .Params.name }}. Your expert will consult you on how to track visitors from Facebook, Google Search, and Adwords with {{ .Params.name }} and Google Analytics.</p>
+                    <p>We analyze your sales funnel for {{ .Params.name }}.</p>
+                    <p>We'll provide an audit of your analytics and sales funnel and provide recommendations.</p>
                   </div>
                 </div>
 
@@ -97,7 +93,8 @@
                       <i class="fa fa-cogs"></i>
                     </div>
                     <h3>Configure</h3>
-                    <p>Discuss your goals with your expert. Your expert will configure your funnel to start collecting custom metrics and dimensions with {{ .Params.name }} and merge that data with Google Analytics to help you plan your marketing strategy.</p>
+                    <p>We'll configure your landing page and conversion forms to collect the metrics you need.</p>
+                    <p>We'll connect your {{ .Params.name }} revenue data so your marketing team can measure results.</p>
                   </div>
                 </div>
 
@@ -107,7 +104,8 @@
                       <i class="fa fa-lightbulb-o"></i>
                     </div>
                     <h3>Discover</h3>
-                    <p>Discover all the channels that led to your conversions. By building custom tailored attribution models for your business, you can scale up your marketing efforts with Adwords and Facebook while making the most of {{ .Params.name }}.</p>
+                    <p>Find out the ROI of your marketing efforts.</p>
+                    <p>Discover source, medium, and campaign data based on revenue.</p>
                   </div>
                 </div>
 

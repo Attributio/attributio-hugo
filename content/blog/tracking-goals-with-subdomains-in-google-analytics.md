@@ -1,7 +1,7 @@
 +++
 title = "Tracking Goals with Subdomains in Google Analytics"
 date = "2017-05-18"
-lastmod = "2019-06-16"
+lastmod = "2019-07-16"
 tags = ["google analytics"]
 categories = ["tutorial"]
 banner = "/img/blog/201705/subdomain_page_filter.png"

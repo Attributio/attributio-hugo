@@ -45,6 +45,15 @@
             {{ end }}
 
             <hr>
+
+            <h3>Stripe</h3>
+
+            {{ range where .Pages "File.Dir" "in" "/docs/stripe/" }}
+              <p><a href="{{ .Permalink }}">{{ .Params.Title }}</a></p>
+            {{ end }}
+
+            <hr>
+
           </div>
 
         </div>

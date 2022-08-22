@@ -1,12 +1,8 @@
 weight: 3
-title: "Conversion Attribution"
+title: "Lead Analytics"
 description: >
-  <p>Simple attribution modeling at your fingertips.</p>
-  <p>Business intelligence for growth.</p>
-  <p>Get the full picture on all your marketing efforts, measure campaign ROI, never lose a deal again.</p>
-  <a href="/meet/" class="btn btn-xl btn-danger btn-block track" 
-    data-event-category="Homepage"
-    data-event-action="Top Click"
-    data-event-label="Red Button"
-    >Meet Your Expert</a>
+  <p>Get source, medium, and campaign data for all your leads.</p>
+  <p>Find out how your customers first discovered you.</p>
+  <p>Stop wasting money on campaigns that don't convert. Measure ROI.</p>
+  <a href="/meet/" class="btn btn-xl btn-danger btn-block">Meet Your Expert</a>
 image: "/img/carousel/laptop-analytics-2.png"
