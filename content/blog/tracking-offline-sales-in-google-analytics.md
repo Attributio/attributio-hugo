@@ -19,7 +19,7 @@ If you're collecting leads online and converting them over the phone through you
 
 ## Configure Google Analytics to store revenue data
 
-You will also need to create a custom metric in your Google Analytics property to represent revenue data (you can do this easily with our <a href="app.attribut.io">app</a>). Once that has been set, you can send the client id that was captured during the online lead conversion process along with the total value of that deal to Google Anaytics to get a picture of your ROI.
+You will also need to create a custom metric in your Google Analytics property to represent revenue data (you can do this easily with our <a href="https://app.attribut.io">app</a>). Once that has been set, you can send the client id that was captured during the online lead conversion process along with the total value of that deal to Google Anaytics to get a picture of your ROI.
 
 If you can't collect the client id, which Google uses to match all of that user's behavior in Google Analytics with the data that you want to see, you will need to send a User ID. If you aren't using an authentication system where your customers have id's associated with their accounts, you can just add the id generated from your CRM and send that along with the revenue data. You will need one or the other, otherwise Google Analytics will not register the event data that you will be sending to it's servers.
 

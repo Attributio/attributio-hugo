@@ -31,6 +31,11 @@ pluralizeListTitles = false
     url  = "/blog/"
     weight = 6
 
+[[menu.main]]
+    name = "Login"
+    url  = "https://my.attribut.io/users/sign_in"
+    weight = 6
+
 [sitemap]
   changefreq = "daily"
   filename = "sitemap.xml"
@@ -64,7 +69,7 @@ pluralizeListTitles = false
     # email = "attributio1@gmail.com"
 
     about_us = ""
-    copyright = "Copyright &copy; 2022 Attributio. All rights reserved."
+    copyright = "Copyright &copy; 2024 Attributio. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
