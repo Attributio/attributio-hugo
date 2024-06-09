@@ -121,9 +121,9 @@ pluralizeListTitles = false
     enable = true
     icon = "fa fa-file-code-o"
     title = "Do you want to find out more?"
-    subtitle = "Schedule a consultation today."
-    link_url = "/meet/"
-    link_text = "Meet Your Expert"
+    subtitle = "Sign up and try today."
+    link_url = "https://my.attribut.io/users/sign_up"
+    link_text = "Sign Up"
 
 [params.clients]
     enable = true

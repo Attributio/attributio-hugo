@@ -1,8 +1,8 @@
 weight: 3
 title: "Lead Analytics"
-description: >
+description:
   <p>Get source, medium, and campaign data for all your leads.</p>
   <p>Find out how your customers first discovered you.</p>
   <p>Stop wasting money on campaigns that don't convert. Measure ROI.</p>
-  <a href="/meet/" class="btn btn-xl btn-danger btn-block">Meet Your Expert</a>
+  <a href="https://my.attribut.io/users/sign_up" class="btn btn-xl btn-danger btn-block">Start Free Trial</a>
 image: "/img/carousel/laptop-analytics-2.png"

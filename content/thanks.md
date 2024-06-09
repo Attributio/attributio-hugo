@@ -1,5 +1,6 @@
 +++
 title = "Thanks"
+layout = "thanks"
 description = "Thank you."
 private = true
 +++

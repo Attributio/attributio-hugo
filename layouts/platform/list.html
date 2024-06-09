@@ -18,19 +18,20 @@
     {{ partial "breadcrumbs.html" . }}
 
     <div id="content">
-      <div class="container">
+      <div class="container" style="min-height: calc(100vh - 348px);">
         <div class="row">
 
         <ul>
-
-          {{ range where .Pages "File.Dir" "in" "/docs/attributio/" }}
-          <p><a href="{{ .Permalink }}">{{ .Params.Title }}</a></p>
-          {{ end }}
-
         <!-- Renders the li.html content view for each content/posts/*.md -->
-            {{ range .Pages }}
+        {{ if eq .RelPermalink "/platform/" }}
+            {{ range .Sections }}
               <p><a href="{{ .Permalink }}">{{ .Title }}</a></p>
             {{ end }}
+        {{ else }}
+            {{ range .Pages }}
+              <p><a href="{{ .Permalink }}">{{ .Params.name }}</a></p>
+            {{ end }}
+        {{ end }}
         </ul>
 
         </div>
