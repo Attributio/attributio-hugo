@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 # googleAnalytics = ""
 
 # Define the number of posts per page
-paginate = 10
+pagination.pagerSize = 10
 
 pluralizeListTitles = false
 
@@ -69,7 +69,7 @@ pluralizeListTitles = false
     # email = "attributio1@gmail.com"
 
     about_us = ""
-    copyright = "Copyright &copy; 2024 Attributio. All rights reserved."
+    copyright = "Copyright &copy; 2025 Attributio. All rights reserved."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -88,8 +88,8 @@ pluralizeListTitles = false
     # longitude = "-77.028333"
 
 [Permalinks]
-    # blog = "/blog/:year/:month/:day/:filename/"
-    blog = "/:filename/"
+    # blog = "/blog/:year/:month/:day/:contentbasename/"
+    blog = "/:contentbasename/"
 
 # Enable and disable widgets for the right sidebar
 [params.widgets]
